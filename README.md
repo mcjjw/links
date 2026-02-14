@@ -1,6 +1,6 @@
 https://www.google.com/
 
-htpps://client.eaglercraft.win/eagler-files/1.12/Main/index.html
+https://client.eaglercraft.win/eagler-files/1.12/Main/index.html
 
 https://www.youtube.com/
 
